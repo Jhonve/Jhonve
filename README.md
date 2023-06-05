@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=YMTyCpAAAAAJ)
 
 - 🌱 I am a 4th-Year CS Ph.D. student focusing on Computer Graphics at [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/english.html), [Zhejiang University](http://www.zju.edu.cn/english/)
-- 🔭 I’m currently working on 3D geometry processing and reconstruction with deep learning.
+- 🔭 I am currently working on 3D geometry processing and reconstruction with deep learning.
 - 💬 I am open to discussion or collaboration. Please feel free to reach out to me via email.
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonve&theme=radical&layout=compact">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonve&theme=radical&layout=compact"></img>
+![Jhonve's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Jhonve&theme=radical&layout=compact) 
 -->
 
-![Jhonve's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Jhonve&theme=radical&layout=compact) ![Jhonve's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonve&theme=radical&layout=compact)
+![Jhonve's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonve&theme=radical&layout=compact)
