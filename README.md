@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I am a 4th-Year CS Ph.D. student focusing on Computer Graphics at [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/english.html), [Zhejiang University](http://www.zju.edu.cn/english/)
 - 🔭 I am currently working on 3D geometry processing and reconstruction with deep learning.
 - 💬 I am open to discussion or collaboration. Please feel free to reach out to me via email.
+- 🚩 I am actively looking for a research position in 2024. Please feel free to contact me if you are interested in my research.
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonve&theme=radical&layout=compact">
