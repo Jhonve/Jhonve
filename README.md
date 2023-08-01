@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ![Jhonve's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Jhonve&theme=radical&layout=compact) 
 -->
 
-![Jhonve's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonve&theme=radical&layout=compact)
+![Jhonve's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonve&theme=transparent&layout=compact)
